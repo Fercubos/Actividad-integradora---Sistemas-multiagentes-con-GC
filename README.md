@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and documentation for the integrative project in TC2008B. The project is divided into three main components:
+This repository contains the code and documentation for the integrative. The project is divided into three main components:
 
 ### 1. Multi-Agent Systems
 
